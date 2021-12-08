@@ -95,8 +95,8 @@ C) ages 50-60    D) ages 60-70
 因此，在输入图像的同时，还同时输入了该图像的估算后的年龄。流程图如下：  
 ![diagram_of_FA-GAN](https://raw.githubusercontent.com/oukohou/image_gallery/master/blogs/face_aging_using_GAN/diagram_of_FA-GAN.png)  
 
-关于patchGAN，我在之前的[pix2pix](https://www.oukohou.wang/2019/01/07/Image-to-Image-Translation-with-Conditional-Adversarial-Networks/#222-markovian-discriminatorpatchgan)
-博文里提到过，就是discriminator关注的不是整张图像，而是$N×N$的patches，具体可以参考我的这一篇博文：[pix2pix](https://www.oukohou.wang/2019/01/07/Image-to-Image-Translation-with-Conditional-Adversarial-Networks/#222-markovian-discriminatorpatchgan)。  
+关于patchGAN，我在之前的[pix2pix](https://renxiaorui.github.io/2019/01/07/Image-to-Image-Translation-with-Conditional-Adversarial-Networks/#222-markovian-discriminatorpatchgan)
+博文里提到过，就是discriminator关注的不是整张图像，而是$N×N$的patches，具体可以参考我的这一篇博文：[pix2pix](https://renxiaorui.github.io/2019/01/07/Image-to-Image-Translation-with-Conditional-Adversarial-Networks/#222-markovian-discriminatorpatchgan)。  
 
 同时，作者预实验过程中，发现年龄老化、年轻化分开训练的话效果更好，即$$G_{+}(x_0,k)={\hat{x}}_k$$做老化,
 $G_{-}(x_0,k)={\hat{x}}_{-k}$做年轻化。  
@@ -138,7 +138,7 @@ emmmm...,你说怎样就怎样啦～～
 
 <br>
 微信公众号：璇珠杂俎(也可搜索[oukohou](https://mp.weixin.qq.com/s/dCxGcuv5ngyR6U-uBYVI9Q))，提供本站优质非技术博文～～
-[![wechat_official_account](https://www.oukohou.wang/assets/imgs/wechat_official_account.png)](https://mp.weixin.qq.com/s/dCxGcuv5ngyR6U-uBYVI9Q "点击图像直达微信公众号～～")  
+[![wechat_official_account](https://renxiaorui.github.io/assets/imgs/wechat_official_account.png)](https://mp.weixin.qq.com/s/dCxGcuv5ngyR6U-uBYVI9Q "点击图像直达微信公众号～～")  
 
 
 
@@ -146,7 +146,7 @@ emmmm...,你说怎样就怎样啦～～
 <br>
 <p  align="right">regards.</p>
 <h4 align="right">
-    <a href="https://www.oukohou.wang/">
+    <a href="https://renxiaorui.github.io/">
         oukohou.
     </a>
 </h4>

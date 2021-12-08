@@ -91,7 +91,7 @@ while True:
 
 <br>
 微信公众号：璇珠杂俎(也可搜索[oukohou](https://mp.weixin.qq.com/s/dCxGcuv5ngyR6U-uBYVI9Q))，提供本站优质非技术博文～～
-[![wechat_official_account](https://www.oukohou.wang/assets/imgs/wechat_official_account.png)](https://mp.weixin.qq.com/s/dCxGcuv5ngyR6U-uBYVI9Q "点击图像直达微信公众号～～")  
+[![wechat_official_account](https://renxiaorui.github.io/assets/imgs/wechat_official_account.png)](https://mp.weixin.qq.com/s/dCxGcuv5ngyR6U-uBYVI9Q "点击图像直达微信公众号～～")  
 
 
 
@@ -99,7 +99,7 @@ while True:
 <br>
 <p  align="right">regards.</p>
 <h4 align="right">
-    <a href="https://www.oukohou.wang/">
+    <a href="https://renxiaorui.github.io/">
         oukohou.
     </a>
 </h4>

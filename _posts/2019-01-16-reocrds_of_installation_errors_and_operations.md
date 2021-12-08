@@ -244,7 +244,7 @@ pip install torch-1.0.1.post2-cp35-cp35m-linux_x86_64.whl
 
 <p  align="right">regards.</p>
 <h4 align="right">
-    <a href="https:www.oukohou.wang">
+    <a href="https:renxiaorui.github.io">
         oukohou.
     </a>
 </h4>
@@ -253,5 +253,5 @@ pip install torch-1.0.1.post2-cp35-cp35m-linux_x86_64.whl
 
 <br>
 微信公众号：璇珠杂俎(也可搜索oukohou)，提供本站优质非技术博文～～
-![wechat_official_account](https://www.oukohou.wang/assets/imgs/wechat_official_account.png)  
+![wechat_official_account](https://renxiaorui.github.io/assets/imgs/wechat_official_account.png)  
 

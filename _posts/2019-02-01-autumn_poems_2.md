@@ -7,7 +7,7 @@ tags: [诗, 秋,]
 ---
 
 小区旁边的学校时不时地会在门口显示屏上来一句诗，自从上次集齐了5句诗，写了一篇博文
-“[寒事今牢落，人生亦有初](https://www.oukohou.wang/2018/12/06/autumn_poems/)”之后，就一直留心学校有没有贴出新的诗句，
+“[寒事今牢落，人生亦有初](https://renxiaorui.github.io/2018/12/06/autumn_poems/)”之后，就一直留心学校有没有贴出新的诗句，
 每次看到了都要拍下来，想要等到集齐了5句再来post一下。  
 然后一直到学校放寒假也才集了4句……  
 我都要放年假了，于是也就拾掇一下发出来吧，早完早了～～  
@@ -65,7 +65,7 @@ tags: [诗, 秋,]
 ```
 又是首低迷的诗～～  
 这首也很直白了，为啥要说`又`呢？  
-上一篇写诗句的博文里，也有一首陆游的诗：[秋雨中作](https://www.oukohou.wang/2018/12/06/autumn_poems/#2-%E9%9B%A8%E4%BE%B5%E5%9D%8F%E7%93%AE%E6%96%B0%E8%8B%94%E7%BB%BF%E7%A7%8B%E5%85%A5%E6%A8%AA%E6%9E%97%E6%95%B0%E5%8F%B6%E7%BA%A2)，
+上一篇写诗句的博文里，也有一首陆游的诗：[秋雨中作](https://renxiaorui.github.io/2018/12/06/autumn_poems/#2-%E9%9B%A8%E4%BE%B5%E5%9D%8F%E7%93%AE%E6%96%B0%E8%8B%94%E7%BB%BF%E7%A7%8B%E5%85%A5%E6%A8%AA%E6%9E%97%E6%95%B0%E5%8F%B6%E7%BA%A2)，
 看来放翁小日子过得确实很不舒心呐，哪哪都有他～～  
 
 ### 4. 荆溪白石出，天寒红叶稀
@@ -124,7 +124,7 @@ tags: [诗, 秋,]
 
 <br>
 微信公众号：璇珠杂俎(也可搜索[oukohou](https://mp.weixin.qq.com/s/dCxGcuv5ngyR6U-uBYVI9Q))，提供本站优质非技术博文～～
-[![wechat_official_account](https://www.oukohou.wang/assets/imgs/wechat_official_account.png)](https://mp.weixin.qq.com/s/dCxGcuv5ngyR6U-uBYVI9Q "点击图像直达微信公众号～～")  
+[![wechat_official_account](https://renxiaorui.github.io/assets/imgs/wechat_official_account.png)](https://mp.weixin.qq.com/s/dCxGcuv5ngyR6U-uBYVI9Q "点击图像直达微信公众号～～")  
 
 
 
@@ -132,7 +132,7 @@ tags: [诗, 秋,]
 <br>
 <p  align="right">regards.</p>
 <h4 align="right">
-    <a href="https://www.oukohou.wang/">
+    <a href="https://renxiaorui.github.io/">
         oukohou.
     </a>
 </h4>

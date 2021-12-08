@@ -7,7 +7,7 @@ categories: [日志]
 ---
 Hello there!
 
-This is my first blog on my blog [site](http://www.oukohou.wang/).
+This is my first blog on my blog [site](http://renxiaorui.github.io/).
 
 That's all.
 

@@ -19,10 +19,10 @@ tags: [installation, blog, setting up]
 首先说域名。  
 域名要买，有很多人卖。    
 我就只有一个原则：便宜。      
-找了半天，最后是在[腾讯云](https://cloud.tencent.com/)上买了这个域名[oukohou.wang](https://www.oukohou.wang/),后缀于我也算是应景。  
+找了半天，最后是在[腾讯云](https://cloud.tencent.com/)上买了这个域名[oukohou.wang](https://renxiaorui.github.io/),后缀于我也算是应景。  
 注册时犹豫了半天是要 kohou.wang 还是 oukohou.wang。  
 最终还是因为已经在众多平台上注册了账号ID为oukohou，为了保证一致性，
-选择了[oukohou.wang](https://www.oukohou.wang/)。  
+选择了[oukohou.wang](https://renxiaorui.github.io/)。  
 还算便宜，一年只要29元。  
 送了几张有效期一个月的券，当时没有用掉。现在想要续费几年，就有点可惜当初没有用了。  
 那就这样吧，先用着看看。等明年快到期了再续费吧。  
@@ -42,7 +42,7 @@ tags: [installation, blog, setting up]
 
 ## 3. 站点收录
 这个也是不容忽视的一点。  
-套用我的[一篇博客](https://www.oukohou.wang/2018/11/01/sereral_search_engines_urls/)的几句话：
+套用我的[一篇博客](https://renxiaorui.github.io/2018/11/01/sereral_search_engines_urls/)的几句话：
 >有了自己的域名，搭建好了自己的个人博客站点，就万事俱备了么？  
 剩下的只是勤恳更新自己的内容，就自然会有人看到并来给你32个赞了么？  
 The answer is no！  
@@ -51,7 +51,7 @@ The answer is no！
 而且很有可能即使这么做了，人家还不情不愿不想收录哦～～  
 更而且，即使收录了，也可能排在不知道几十页之后哦～～  
 
-具体如何提交站点收录，可以参看我的[这一篇博客](https://www.oukohou.wang/2018/11/01/sereral_search_engines_urls/)。
+具体如何提交站点收录，可以参看我的[这一篇博客](https://renxiaorui.github.io/2018/11/01/sereral_search_engines_urls/)。
 
 ## 4. 评论功能
 评论功能难了我挺久一段时间。  

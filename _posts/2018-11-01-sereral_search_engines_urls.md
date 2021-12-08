@@ -28,16 +28,16 @@ tags:   [search engine, baidu, google, 360, sougou]
 以google为例，一般的个人站点提交流程如下：  
   
 1. 提交网址    
-比如提交我的博客网址：https://www.oukohou.wang/  
-![https://www.oukohou.wang/](https://raw.githubusercontent.com/oukohou/image_gallery/master/blogs/search_engine_url/step_1.png)  
+比如提交我的博客网址：https://renxiaorui.github.io/  
+![https://renxiaorui.github.io/](https://raw.githubusercontent.com/oukohou/image_gallery/master/blogs/search_engine_url/step_1.png)  
 
 2. 验证所有权  
 就是验证你对这个网站有所有权：  
     给你一个文件，你要能把这个文件放到该网站的根目录下：    
-![https://www.oukohou.wang/](https://raw.githubusercontent.com/oukohou/image_gallery/master/blogs/search_engine_url/step_2.png)
-比如[我的这个博客](https://www.oukohou.wang/)，是用jekyll在github pages上搭建的，我就只需要在[oukohou.github.io](https://github.com/oukohou/oukohou.github.io)
+![https://renxiaorui.github.io/](https://raw.githubusercontent.com/oukohou/image_gallery/master/blogs/search_engine_url/step_2.png)
+比如[我的这个博客](https://renxiaorui.github.io/)，是用jekyll在github pages上搭建的，我就只需要在[oukohou.github.io](https://github.com/oukohou/oukohou.github.io)
 这个repository的根目录下放这个验证用的[html文件](https://github.com/oukohou/oukohou.github.io/blob/master/google23b03f783980f31a.html)，
-稍等片刻，让子弹飞一会儿，就可以[访问到了](https://www.oukohou.wang/google23b03f783980f31a.html)。
+稍等片刻，让子弹飞一会儿，就可以[访问到了](https://renxiaorui.github.io/google23b03f783980f31a.html)。
 
 3. 验证通过  
 验证通过后一般也就OK了，剩下的就是耐心等待搜索引擎收录你的网站的结果了。  
@@ -54,7 +54,7 @@ tags:   [search engine, baidu, google, 360, sougou]
 ![poor click rate](https://raw.githubusercontent.com/oukohou/image_gallery/master/blogs/search_engine_url/click_rate.png)  
 总共曝光了可怜的4次，而且只有可怜的1次点击……  
 哭。  
-大家看我这么可怜，快来多多点击[我的网页](https://www.oukohou.wang/)吧～～～  
+大家看我这么可怜，快来多多点击[我的网页](https://renxiaorui.github.io/)吧～～～  
 
 ## 3. 完结撒花  
 你的赞是我最大的动力！  

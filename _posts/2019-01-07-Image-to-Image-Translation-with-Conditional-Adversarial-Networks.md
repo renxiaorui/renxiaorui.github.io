@@ -105,8 +105,8 @@ discriminator是学习判别一张图的每个$NxN$的patch是否是真的，比
 不用怕！  
 贴心的我发现了一个在线体验网址！：[image-to-image interactive demo](https://affinelayer.com/pixsrv/)  
 开不开心？惊不惊喜？   
-是不是激动地想要[赏我两个铜板](https://www.oukohou.wang/donate/ "那就赏吧，点击直达打赏页面～～ ")？    
-[![yasashii](https://raw.githubusercontent.com/oukohou/image_gallery/master/blogs/anime/%E6%B8%A9%E6%9F%94%E7%9A%84%E7%94%B7%E5%AD%A9%E5%AD%90.jpg "当然，女孩子会更温柔的啦～～")](https://www.oukohou.wang/donate/)  
+是不是激动地想要[赏我两个铜板](https://renxiaorui.github.io/donate/ "那就赏吧，点击直达打赏页面～～ ")？    
+[![yasashii](https://raw.githubusercontent.com/oukohou/image_gallery/master/blogs/anime/%E6%B8%A9%E6%9F%94%E7%9A%84%E7%94%B7%E5%AD%A9%E5%AD%90.jpg "当然，女孩子会更温柔的啦～～")](https://renxiaorui.github.io/donate/)  
 
   
 ## 5. end
@@ -115,7 +115,7 @@ discriminator是学习判别一张图的每个$NxN$的patch是否是真的，比
 欢迎大家指摘讨论～～    
 
 微信公众号：璇珠杂俎(也可搜索oukohou)，提供本站优质非技术博文～～
-![wechat_official_account](https://www.oukohou.wang/assets/imgs/wechat_official_account.png)  
+![wechat_official_account](https://renxiaorui.github.io/assets/imgs/wechat_official_account.png)  
 
 
   
@@ -123,7 +123,7 @@ discriminator是学习判别一张图的每个$NxN$的patch是否是真的，比
 
 <p  align="right">regards.</p>
 <h4 align="right">
-    <a href="https:www.oukohou.wang">
+    <a href="https:renxiaorui.github.io">
         oukohou.
     </a>
 </h4>

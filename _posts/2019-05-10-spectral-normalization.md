@@ -6,7 +6,7 @@ categories: [论文]
 tags: [paper, GAN, spectral normalization, image synthesis]  
 ---
 
-明人不说暗话，这篇论文是即将出炉的下一篇的博文：[论文阅读-自注意力GAN_SAGAN](https://www.oukohou.wang/)的前导篇。  
+明人不说暗话，这篇论文是即将出炉的下一篇的博文：[论文阅读-自注意力GAN_SAGAN](https://renxiaorui.github.io/)的前导篇。  
 何出此言？因为即将到来的下一篇SA-GAN里面用到了这个谱归一化（Spectral Normalization），所以我也就仔细看了看，这里写出来分享一下。  
 
 - paper:[Spectral Normalization for Generative Adversarial Networks](https://arxiv.org/pdf/1802.05957.pdf)  
@@ -97,13 +97,13 @@ $$\bar{W}_{SN}(W):=W/\sigma(W)$$
 论文里剩下的部分就是一些实现时的 tricks 了，这里就不赘述了，感兴趣的话可以阅读原文自行探索～～  
 
 那么，说完了这一篇[Spectral Normalization for Generative Adversarial Networks](https://arxiv.org/pdf/1802.05957.pdf)前导篇，
-敬请期待我的下一篇[论文阅读-自注意力GAN_SAGAN](https://www.oukohou.wang/)～～  
+敬请期待我的下一篇[论文阅读-自注意力GAN_SAGAN](https://renxiaorui.github.io/)～～  
 
 
 
 <br>
 微信公众号：璇珠杂俎(也可搜索[oukohou](https://mp.weixin.qq.com/s/dCxGcuv5ngyR6U-uBYVI9Q))，提供本站优质非技术博文～～
-[![wechat_official_account](https://www.oukohou.wang/assets/imgs/wechat_official_account.png)](https://mp.weixin.qq.com/s/dCxGcuv5ngyR6U-uBYVI9Q "点击图像直达微信公众号～～")  
+[![wechat_official_account](https://renxiaorui.github.io/assets/imgs/wechat_official_account.png)](https://mp.weixin.qq.com/s/dCxGcuv5ngyR6U-uBYVI9Q "点击图像直达微信公众号～～")  
 
 
 
@@ -111,7 +111,7 @@ $$\bar{W}_{SN}(W):=W/\sigma(W)$$
 <br>
 <p  align="right">regards.</p>
 <h4 align="right">
-    <a href="https://www.oukohou.wang/">
+    <a href="https://renxiaorui.github.io/">
         oukohou.
     </a>
 </h4>

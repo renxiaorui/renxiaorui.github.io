@@ -8,8 +8,8 @@ tags: [春, 诗]
 
 小区旁边的学校时不时地会在门口的显示屏上来一句应季的诗，比如带‘春’、‘秋’的诗句。  
 好事之徒，如我，每次看到都拍了下来，之前已经post了两篇集锦性的博文：
-- [寒事今牢落，人生亦有初](https://www.oukohou.wang/2018/12/06/autumn_poems/)  
-- [不知乘月几人归，落月摇情满江树](https://www.oukohou.wang/2019/02/01/autumn_poems_2/)  
+- [寒事今牢落，人生亦有初](https://renxiaorui.github.io/2018/12/06/autumn_poems/)  
+- [不知乘月几人归，落月摇情满江树](https://renxiaorui.github.io/2019/02/01/autumn_poems_2/)  
 
 都是关于秋的。  
 如今集了也有6句关于‘春’的诗了，故继续来这里post一下。  
@@ -139,7 +139,7 @@ print_hi("I'm oukohou")
 
 <br>
 微信公众号：璇珠杂俎(也可搜索[oukohou](https://mp.weixin.qq.com/s/dCxGcuv5ngyR6U-uBYVI9Q))，提供本站优质非技术博文～～
-[![wechat_official_account](https://www.oukohou.wang/assets/imgs/wechat_official_account.png)](https://mp.weixin.qq.com/s/dCxGcuv5ngyR6U-uBYVI9Q "点击图像直达微信公众号～～")  
+[![wechat_official_account](https://renxiaorui.github.io/assets/imgs/wechat_official_account.png)](https://mp.weixin.qq.com/s/dCxGcuv5ngyR6U-uBYVI9Q "点击图像直达微信公众号～～")  
 
 
 
@@ -147,7 +147,7 @@ print_hi("I'm oukohou")
 <br>
 <p  align="right">regards.</p>
 <h4 align="right">
-    <a href="https://www.oukohou.wang/">
+    <a href="https://renxiaorui.github.io/">
         oukohou.
     </a>
 </h4>

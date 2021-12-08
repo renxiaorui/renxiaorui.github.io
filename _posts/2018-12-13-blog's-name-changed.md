@@ -71,7 +71,7 @@ tags: [blog, 璇珠, 杂俎, name, 装逼]
 
 <p  align="right">regards.</p>
 <h4 align="right">
-    <a href="https:www.oukohou.wang">
+    <a href="https:renxiaorui.github.io">
         oukohou.
     </a>
 </h4>

@@ -6,8 +6,8 @@ categories: [论文]
 tags: [VLAD, GhostVLAD, machine learning, template-based face recognition]  
 ---
 
-[GhostVLAD](https://arxiv.org/abs/1810.09951)，一句话可以囊括：在[NetVLAD](https://www.oukohou.wang/2018/11/27/NetVLAD/)上的小修小补。  
-这两篇论文有一个共同的作者：[Dr Relja Arandjelović](http://www.relja.info/)，他还是[NetVLAD](https://www.oukohou.wang/2018/11/27/NetVLAD/)的一作。   
+[GhostVLAD](https://arxiv.org/abs/1810.09951)，一句话可以囊括：在[NetVLAD](https://renxiaorui.github.io/2018/11/27/NetVLAD/)上的小修小补。  
+这两篇论文有一个共同的作者：[Dr Relja Arandjelović](http://www.relja.info/)，他还是[NetVLAD](https://renxiaorui.github.io/2018/11/27/NetVLAD/)的一作。   
 说到这里，大家心里应该有点谱了吧，这篇GhostVLAD的创新点，只有两点：  
 1. 在NetVLAD的基础上，加了一个类别簇（ghost clusters）；  
 2. 为创新点 1 构造了一个应用场景：基于模板的人脸识别（template-based face recognition）。  
@@ -50,7 +50,7 @@ backbone论文里用的是 ResNet-50 和 SENet-50，当然，要去掉最后的�
 这一节的节标题就是作者原文里的标题。哈哈，看到这个标题，觉不觉得作者好像还算挺实诚的？  
 GhostVLAD的作用，就是给定 N 个 $D_F$ 维的人脸图像描述子，将其转换为一个 $D_F*K$ 的输出。  
 然后这个输出再经过一层全连接层，得到一个 D 维的向量。  
-关于NetVLAD的详细介绍，请看我的另一篇博文： [论文阅读 NetVLAD: CNN architecture for weakly supervised place recognition](https://www.oukohou.wang/2018/11/27/NetVLAD/).  
+关于NetVLAD的详细介绍，请看我的另一篇博文： [论文阅读 NetVLAD: CNN architecture for weakly supervised place recognition](https://renxiaorui.github.io/2018/11/27/NetVLAD/).  
 这里就不赘述了。  
 而 GhostVLAD 又是怎么回事呢？看图：  
 ![ghostVLAD](https://raw.githubusercontent.com/oukohou/image_gallery/master/blogs/ghostVLAD/ghostVlad.png)  
@@ -82,11 +82,11 @@ GhostVLAD的作用，就是给定 N 个 $D_F$ 维的人脸图像描述子，将�
 
 ## 5. Conclusions
 看到了这里，相信客官应该觉得我开头所言非虚了吧：
->[GhostVLAD](https://arxiv.org/abs/1810.09951)，一句话可以囊括：在[NetVLAD](https://www.oukohou.wang/2018/11/27/NetVLAD/)上的小修小补。
+>[GhostVLAD](https://arxiv.org/abs/1810.09951)，一句话可以囊括：在[NetVLAD](https://renxiaorui.github.io/2018/11/27/NetVLAD/)上的小修小补。
 
 不过当然，“小修小补”没什么意外，但知道怎么样进行”小修小补“就非常厉害啦。  
 人家的想法确实很令我佩服，敬仰。在这里送上我的膝盖：  
-[![take_it!](https://raw.githubusercontent.com/oukohou/image_gallery/master/blogs/anime/take-my-knee.jpg)](https://www.oukohou.wang/2018/12/26/GhostVLAD/)  
+[![take_it!](https://raw.githubusercontent.com/oukohou/image_gallery/master/blogs/anime/take-my-knee.jpg)](https://renxiaorui.github.io/2018/12/26/GhostVLAD/)  
 
 
 以上，完结撒花。
@@ -96,7 +96,7 @@ GhostVLAD的作用，就是给定 N 个 $D_F$ 维的人脸图像描述子，将�
 
 <p  align="right">regards.</p>
 <h4 align="right">
-    <a href="https:www.oukohou.wang">
+    <a href="https:renxiaorui.github.io">
         oukohou.
     </a>
 </h4>

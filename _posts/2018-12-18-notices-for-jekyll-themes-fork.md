@@ -7,12 +7,12 @@ tags: [notices, help]
 ---
 
 update 2020-09-06 14:56:32：
-- [7. clustrmaps](https://www.oukohou.wang/2018/12/18/notices-for-jekyll-themes-fork/#7-clustrmaps)
-- [8. google adsense](https://www.oukohou.wang/2018/12/18/notices-for-jekyll-themes-fork/#8-google-adsense)
+- [7. clustrmaps](https://renxiaorui.github.io/2018/12/18/notices-for-jekyll-themes-fork/#7-clustrmaps)
+- [8. google adsense](https://renxiaorui.github.io/2018/12/18/notices-for-jekyll-themes-fork/#8-google-adsense)
 
 
 **首先要感谢你使用我的博客主题！**  
-[我的独立博客](http://www.oukohou.wang/) 主题基于 [maupassant-jekyll](https://github.com/alafighting/maupassant-jekyll.git) 
+[我的独立博客](http://renxiaorui.github.io/) 主题基于 [maupassant-jekyll](https://github.com/alafighting/maupassant-jekyll.git) 
 重新修改和优化，同时很大程度上参考了 [kuanghy](https://github.com/kuanghy) 的博客主题 [luring](https://github.com/kuanghy/luring)，感谢。  
 希望你在介绍自己的博客主题时，也能像上面一样，援引一下我的博客主题～～  
 
@@ -84,7 +84,7 @@ google analytics的代码在
     });</script>
 ```
 关于这个看板娘的配置，以及更多的角色选择，我专门写了一篇博文：  
-[给自己的jekyll安装一个萌萌哒二次元看板娘](https://www.oukohou.wang/2018/11/29/live2D_installation/)  
+[给自己的jekyll安装一个萌萌哒二次元看板娘](https://renxiaorui.github.io/2018/11/29/live2D_installation/)  
 点击进去尽情的撒个野吧～～  
 
 
@@ -146,7 +146,7 @@ sidebar（侧边栏）的部署代码在
 
 ### 6. 搜索引擎验证文件
 所谓引擎验证文件，主要是repo根目录的一些html、txt文件，是用来提交站点收录时验证用的。  
-套用我的 [一篇博客](https://www.oukohou.wang/2018/11/01/sereral_search_engines_urls/) 的几句话：
+套用我的 [一篇博客](https://renxiaorui.github.io/2018/11/01/sereral_search_engines_urls/) 的几句话：
 >有了自己的域名，搭建好了自己的个人博客站点，就万事俱备了么？  
 剩下的只是勤恳更新自己的内容，就自然会有人看到并来给你32个赞了么？  
 The answer is no！  
@@ -155,11 +155,11 @@ The answer is no！
 而且很有可能即使这么做了，人家还不情不愿不想收录哦～～  
 更而且，即使收录了，也可能排在不知道几十页之后哦～～  
 
-具体如何提交站点收录，可以参看我的 [这一篇博客](https://www.oukohou.wang/2018/11/01/sereral_search_engines_urls/)。
+具体如何提交站点收录，可以参看我的 [这一篇博客](https://renxiaorui.github.io/2018/11/01/sereral_search_engines_urls/)。
 
 
 ### 7. clustrmaps
-关于[主页面](https://www.oukohou.wang)（index.html）最底部的访问统计图:    
+关于[主页面](https://renxiaorui.github.io)（index.html）最底部的访问统计图:    
 <img src="https://raw.githubusercontent.com/oukohou/image_gallery/master/blogs/notices_for_fork_theme/clstymap.gif"
          width="80%"
          alt="oukohou"/>  
@@ -202,7 +202,7 @@ The answer is no！
 </div><br>  
   
 欢迎fork、star我的repo～～  
-当然，如果你想要 [赏个铜板](https://www.oukohou.wang/donate/ "donate") 的话，那自然是更加欢迎的哈哈～～  
+当然，如果你想要 [赏个铜板](https://renxiaorui.github.io/donate/ "donate") 的话，那自然是更加欢迎的哈哈～～  
 ![yasashii](https://raw.githubusercontent.com/oukohou/image_gallery/master/blogs/anime/%E6%B8%A9%E6%9F%94%E7%9A%84%E7%94%B7%E5%AD%A9%E5%AD%90.jpg "当然，女孩子会更温柔的啦～～")  
 
 
@@ -211,7 +211,7 @@ The answer is no！
 
 <p  align="right">regards.</p>
 <h4 align="right">
-    <a href="https:www.oukohou.wang">
+    <a href="https:renxiaorui.github.io">
         oukohou.
     </a>
 </h4>
