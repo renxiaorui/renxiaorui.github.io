@@ -17,9 +17,9 @@ That's all.
 {% highlight python %}
 def print_hi(name):
    print("Hi, " + name)
-print_hi("I'm oukohou")
+print_hi("I'm renxiaorui")
 {% endhighlight %}
 
 regards.
-<h4 align = "right">oukohou.</h4>
+<h4 align = "right">renxiaorui.</h4>
 
