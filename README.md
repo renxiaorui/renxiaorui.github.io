@@ -1,2 +1,1 @@
-# renxiaorui.github.io
-blog
+renxiaorui.github.io
